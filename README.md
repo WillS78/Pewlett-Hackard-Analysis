@@ -1,11 +1,14 @@
 # Pewlett-Hackard-Analysis
 Pewlett-Hackard-Analysis
 
-#Overview of the analysis
-##he purpose of the new analysis is well defined
+# Overview of the analysis
 
-#Results
-##There is a bulleted list with four major points from the two analysis deliverables
+## The purpose of the new analysis is well defined
 
-#Summary
-##The summary addresses the two questions and contains two additional queries or tables that may provide more insight
+# Results
+
+## There is a bulleted list with four major points from the two analysis deliverables
+
+# Summary
+
+## The summary addresses the two questions and contains two additional queries or tables that may provide more insight
