@@ -25,4 +25,15 @@ The purpose of this analysis is to build a backfill strategy for the company and
 
 # Summary
 
-## The summary addresses the two questions and contains two additional queries or tables that may provide more insight
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+With 133,776 people retiring and only 1,940 mentors.
+
+![retirement_titles_count](https://user-images.githubusercontent.com/101777677/167751914-752e503c-6f72-4c04-87d4-758fd0b6b83d.PNG)
+
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There will be a significant number of people retiring and not enough mentors to support the new hires. If the company doesn’t have quick reference materials or simple how-to guides that new hires can reference there will be a large learning/training gap.
+
+![Mentorship_Count](https://user-images.githubusercontent.com/101777677/167751932-589b9666-99d6-43ed-8ff0-e390f38f6041.PNG)
+
